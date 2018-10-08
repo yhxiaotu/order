@@ -49,7 +49,7 @@
 
     <li <%if ("adControl".equalsIgnoreCase(_currentMenuOpen)) {%> class="active open" <%}%>>
         <a href="#" class="dropdown-toggle">
-            <i class="icon-desktop"></i> <span class="menu-text"> 管理控制 </span>
+            <i class="icon-desktop"></i> <span class="menu-text"> 管理控制嘻嘻嘻 </span>
             <b class="arrow icon-angle-down"></b>
         </a>
 
